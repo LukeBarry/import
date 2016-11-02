@@ -1,0 +1,21 @@
+Coworker pulls 6 reports from our information system and manipulates the data in excel to produce import files for the study island website.
+This code should automate the process, saving hours every week.
+
+''' To do list
+1)	Pull math, English, science, social studies, keystone and student file
+2)	Combine math, English, science, social studies and keystone into a subjects table
+3)	Add a password column from students file
+4)	Take Section Name column and create Column Name column
+5)	Divide Teachers Name in Teachers First and Teachers Last columns
+6)	Take Section Name Column and create Homeroom column
+a.	Add 16-17_ to beginning
+b.	Add _Teachers Last to end
+c.	Keystone Algebra to Keystone Alg
+d.	Keystone English Literature to Keystone Eng Lit
+e.	College in High School Principles of Biology to College in HS Princip of Bio
+f.	Section to Sec
+7)  Filter out the courses I do not want
+8)	Create a csv by each department column
+9)	Move duplicates to department duplicate csv
+
+'''
